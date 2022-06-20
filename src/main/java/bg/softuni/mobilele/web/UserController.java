@@ -24,6 +24,13 @@ public class UserController {
         this.userService = userService;
     }
 
+    //correct way for ModelAttribute
+    @ModelAttribute("userRegisterDto")
+    public UserRegisterDto initUserModel() {
+//        model.addAttribute("userRegisterDto", new UserRegisterDto());
+        return new UserRegisterDto();
+    }
+
     @GetMapping("/login")
     public String login() {
         return "auth-login";
@@ -39,11 +46,6 @@ public class UserController {
     public String login(UserLoginDto userLoginDto) {
         System.out.println("User is logged: " + userService.login(userLoginDto));
         return "redirect:/";
-    }
-
-    @ModelAttribute("userRegisterDto")
-    public void initUserModel(Model model) {
-        model.addAttribute("userRegisterDto", new UserRegisterDto());
     }
 
     @GetMapping("/register")
