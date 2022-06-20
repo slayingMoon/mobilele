@@ -9,6 +9,7 @@ public class CurrentUser {
 
     private String name;
     private boolean loggedIn;
+    private String email;
 
     public String getName() {
         return name;
@@ -28,8 +29,18 @@ public class CurrentUser {
         return this;
     }
 
+    public String getEmail() {
+        return email;
+    }
+
+    public CurrentUser setEmail(String email) {
+        this.email = email;
+        return this;
+    }
+
     //clear current user
     public void clear() {
+        email = null;
         loggedIn = false;
         name = null;
     }
