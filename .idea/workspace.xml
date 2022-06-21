@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef81731-0eb5-4751-913f-0562d40b3452" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/model/dto/AddOfferDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/model/dto/AddOfferDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/OfferService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/OfferService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/user/CurrentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/user/CurrentUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/web/OfferController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/web/OfferController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/offer-add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/offer-add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/UserMapperImpl.java" afterDir="false" />
+>>>>>>> c9363c6c0c00d4bd4dbd4f0e0402a99e542cb94f
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +31,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="AnnotationType" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -36,13 +51,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="29fUTvZzxubXCui5j4L1M2yMo23" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -55,9 +63,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+=======
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+>>>>>>> c9363c6c0c00d4bd4dbd4f0e0402a99e542cb94f
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -65,7 +78,20 @@
       <recent name="C:\Users\snake\Downloads\Spring Fundamentals\03_SpringBootIntroduction_NEW\mobilele\src\main\resources\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MobileleApplication">
+  <component name="RunManager" selected="Application.MobileleApplication">
+    <configuration name="MobileleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.softuni.mobilele.MobileleApplication" />
+      <module name="mobilele" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.softuni.mobilele.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="auth-register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mobilele/templates/auth-register.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -89,7 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.auth-register.html" />
+        <item itemvalue="Application.MobileleApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +138,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
