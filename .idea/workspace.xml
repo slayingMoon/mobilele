@@ -5,22 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef81731-0eb5-4751-913f-0562d40b3452" name="Changes" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/model/dto/AddOfferDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/model/dto/AddOfferDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/OfferService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/OfferService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/user/CurrentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/user/CurrentUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/web/OfferController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/mobilele/web/OfferController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/offer-add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/offer-add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/UserMapperImpl.java" afterDir="false" />
->>>>>>> c9363c6c0c00d4bd4dbd4f0e0402a99e542cb94f
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
-=======
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
->>>>>>> c9363c6c0c00d4bd4dbd4f0e0402a99e542cb94f
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
