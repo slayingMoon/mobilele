@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef81731-0eb5-4751-913f-0562d40b3452" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/service/OfferService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/service/OfferService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/user/CurrentUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/user/CurrentUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/web/OfferController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bg/softuni/mobilele/web/OfferController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/OfferMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/OfferMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/bg/softuni/mobilele/model/mapper/UserMapperImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
